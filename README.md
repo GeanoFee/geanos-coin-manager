@@ -14,11 +14,12 @@ A helper module for the dnd5e system that streamlines currency management. It al
 2. In the Currency section, try typing `+10` in the Gold field.
 3. The module will add 10 Gold and then immediately optimize the total currency across all denominations.
 
-## Settings
+## 🔧 Settings
 
 - **Electrum (EP) berücksichtigen?**: If enabled, Electrum will be used in the auto-conversion. If disabled, Electrum is ignored/skipped.
 
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-coin-manager/releases/latest/download/module.json`
+
 
