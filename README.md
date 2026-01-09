@@ -1,7 +1,5 @@
 # Geano's DnD Coin Manager
 
-![Geano's DnD Coin Manager Showcase](https://github.com/GeanoFee/geanos-coin-manager/blob/main/GCM.jpg?raw=true)
-
 A helper module for the dnd5e system that streamlines currency management. It allows for mathematical input in currency fields and automatically consolidates coins into higher denominations.
 
 ## 🌟 Features
@@ -23,6 +21,7 @@ A helper module for the dnd5e system that streamlines currency management. It al
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-coin-manager/releases/latest/download/module.json`
+
 
 
 
