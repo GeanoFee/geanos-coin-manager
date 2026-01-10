@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "name": "Geano / Gemini"
+      "name": "GeanoFee"
     }
   ],
   "esmodules": [
@@ -25,4 +25,5 @@
       }
     ]
   }
+
 }
