@@ -18,11 +18,12 @@ A helper module for the dnd5e system that streamlines currency management. It al
 
 ## 🔧 Settings
 
-- **Electrum (EP) berücksichtigen?**: If enabled, Electrum will be used in the auto-conversion. If disabled, Electrum is ignored/skipped.
+- **Use Electrum (EP)?**: If enabled, Electrum will be used in the auto-conversion. If disabled, Electrum is ignored/skipped.
 
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-coin-manager/releases/latest/download/module.json`
+
 
 
 
