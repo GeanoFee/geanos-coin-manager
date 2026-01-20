@@ -2,7 +2,7 @@
   "id": "geanos-coin-manager",
   "title": "Geano's DnD Coin Manager",
   "description": "Automatic currency conversion and mathematical input for dnd5e.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
