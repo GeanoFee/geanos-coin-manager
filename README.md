@@ -24,11 +24,6 @@ A helper module for the dnd5e system that streamlines currency management. It al
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-coin-manager/releases/latest/download/module.json`
 
-
-
-
-
-
-
-
-
+---
+## License
+This module is licensed under the [MIT License](LICENSE).
